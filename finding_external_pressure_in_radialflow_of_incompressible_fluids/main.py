@@ -1,5 +1,5 @@
 import math
-print("Reservoir Performance : Theorotical Method")
+print("Reservoir Performance : Theoretical Method")
 print("radial flow of incompressible fluids")
 print("\n")
 
